@@ -36,7 +36,7 @@ The repository also contains another script *check.py* that you can run:
 ```
 python check.py
 ```
-*check.py* takes links in *checker.txt** and outputs the links that don't have corresponding mp3 files in the *Downloads* folder. A sample *checker.txt* file is also included.
+*check.py* takes links in *checker.txt* and outputs the links that don't have corresponding mp3 files in the *Downloads* folder. A sample *checker.txt* file is also included.
 
 ## License
 [MIT License](LICENSE)
