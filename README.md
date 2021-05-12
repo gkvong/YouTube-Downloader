@@ -3,7 +3,7 @@ This python script takes YouTube (or SoundCloud) links in a text document and do
 
 ## Getting Started
 
-### Prerequisties
+### Prerequisites
 * [Python version 3.6 or higher](https://www.python.org/downloads/) is required.
 * Install [FFmpeg](https://www.ffmpeg.org/).
 * Install the youtube-dl python package. Using shell or command prompt execute the following command:
